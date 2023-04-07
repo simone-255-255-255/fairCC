@@ -19,20 +19,22 @@
 [^fc4]: Hu, Y., Wang, B., & Lin, S. (2017). Fc4: Fully convolutional color constancy with confidence-weighted pooling. In Proceedings of the IEEE             conference   on computer vision and pattern recognition (pp. 4085-4094).
 [^convmean]: Gong, H. (2019, September). Convolutional Mean: A Simple Convolutional Neural Network for Illuminant Estimation. In British Machine Vision       Conference. BMVA Press.
 
-<table>
-  <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+
+<table class="sortable">
+ <thead>
+   <tr>
+     <th>Athlete</th>
+     <th>Age</th>
+     <th>Country</th>
+     <th>Gold Medals</th>
   </tr>
+ </thead>
+  <tbody>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+   <td>David Boudia</td>
+   <td>23</td>
+   <td>United States</td>
+   <td>1</td>
   </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
+  </tbody>
 </table>
