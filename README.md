@@ -1,5 +1,8 @@
 # fairCC
 
+### Fair comparison procedure
+
+### Fair CC performance
 | Method                                           | Mean  | Med. | Tri-m. | B-25 | W-25 | 95-Q  | 99-Q  | Max   | Intra-patch | Inter-patches |
 | :------------------------------------------------|------:|-----:|-------:|-----:|-----:|------:|------:|------:|------------:|--------------:|
 | SoG [^EB]                                        | 4.07	| 2.70 | 3.14	  | 0.55 | 9.79	| 12.20	| 17.00	| 21.89	| 0.18%       | 0.00%         |
@@ -18,3 +21,11 @@
 [^ffcc]: Barron, J. T., & Tsai, Y. T. (2017). Fast fourier color constancy. In Proceedings of the IEEE conference on computer vision and pattern             recognition (pp. 886-894).
 [^fc4]: Hu, Y., Wang, B., & Lin, S. (2017). Fc4: Fully convolutional color constancy with confidence-weighted pooling. In Proceedings of the IEEE             conference   on computer vision and pattern recognition (pp. 4085-4094).
 [^convmean]: Gong, H. (2019, September). Convolutional Mean: A Simple Convolutional Neural Network for Illuminant Estimation. In British Machine Vision       Conference. BMVA Press.
+
+
+### Cite
+If you use the code provided in this repository please cite our original work:
+```
+@inproceedings{TBD
+}
+```
