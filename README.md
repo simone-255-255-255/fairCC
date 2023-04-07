@@ -18,3 +18,21 @@
 [^ffcc]: Barron, J. T., & Tsai, Y. T. (2017). Fast fourier color constancy. In Proceedings of the IEEE conference on computer vision and pattern             recognition (pp. 886-894).
 [^fc4]: Hu, Y., Wang, B., & Lin, S. (2017). Fc4: Fully convolutional color constancy with confidence-weighted pooling. In Proceedings of the IEEE             conference   on computer vision and pattern recognition (pp. 4085-4094).
 [^convmean]: Gong, H. (2019, September). Convolutional Mean: A Simple Convolutional Neural Network for Illuminant Estimation. In British Machine Vision       Conference. BMVA Press.
+
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
