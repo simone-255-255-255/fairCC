@@ -27,22 +27,6 @@
 [^convmean]: Gong, H. (2019, September). Convolutional Mean: A Simple Convolutional Neural Network for Illuminant Estimation. In British Machine Vision       Conference. BMVA Press.
 [^QU]: Bianco, S., & Cusano, C. (2019). Quasi-unsupervised color constancy. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 12212-12221).
 
-### Fair CC performance (reproduction angular error)
-| Method                                           | Mean  | Med. | Tri-m. | B-25 | W-25 | 95-Q  | 99-Q  | Max   | Intra-patch | Inter-patches |
-| :------------------------------------------------|------:|-----:|-------:|-----:|-----:|------:|------:|------:|------------:|--------------:|
-| SoG [^EB]                                        | 	|||||||||| 
-| GGW [^EB]                                        | 	|||||||||| 
-| GE1 [^EB]                                        | 	|||||||||| 
-| GE2 [^EB]                                        | 	|||||||||| 
-| Cheng et al. [^PCA]                              |  |||||||||| 
-| Corrected Moments <br /> (9 Edge Mom.)[^corrmom] |  |||||||||| 
-| Cheng et al. [^cheng]                            |  |||||||||| 
-| FFCC (model j) [^ffcc]                           |  |||||||||| 
-| FC<sup>4</sup> [^fc4]                            |  |||||||||| 
-| Conv. Mean [^convmean]                           |  |||||||||| 
-| QU [^QU]                                         |  |||||||||| 
-| QU+ft [^QU]                                      |  |||||||||| 
-
 
 ### Cite
 If you use the code provided in this repository please cite our original work:
