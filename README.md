@@ -1,4 +1,4 @@
-# fairCC
+# On the feair use of the ColorChecker dataset for illuminant estimation
 
 ### Fair comparison procedure
 
