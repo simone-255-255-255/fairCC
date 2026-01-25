@@ -33,6 +33,14 @@
 ### Cite
 If you use the code provided in this repository please cite our original work:
 ```
-@inproceedings{TBD
+@inproceedings{buzzelli2025fair,
+  title={On the fair use of the ColorChecker dataset for illuminant estimation},
+  author={Buzzelli, Marco and Finlayson, Graham and Gijsenij, Arjan and Gehler, Peter and Drew, Mark and Shi, Lilong and Cogo, Luca and Bianco, Simone},
+  booktitle={Journal of Physics: Conference Series},
+  volume={3128},
+  number={1},
+  pages={012014},
+  year={2025},
+  organization={IOP Publishing}
 }
 ```
