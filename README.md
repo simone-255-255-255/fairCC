@@ -1,5 +1,5 @@
 # On the fair use of the ColorChecker dataset for illuminant estimation
-🔗 **[Paper](https://iopscience.iop.org/article/10.1088/1742-6596/3128/1/012014/pdf) 
+🔗 **[Paper](https://iopscience.iop.org/article/10.1088/1742-6596/3128/1/012014/pdf)** 
 
 ### Fair comparison procedure
 The ColorChecker dataset is the most widely used dataset for evaluating and benchmarking illuminant-estimation algorithms. Although it is distributed with a 3-fold cross-validation partitioning, no procedure is defined on how to use it. In order to permit a fair comparison between illuminant-estimation algorithms, in this short correspondence we define a fair comparison procedure, showing that illuminant-estimation errors of state-of-the-art algorithms have been underestimated by up to 33%. We also compute the lower error bounds that can be reached on this dataset, which demonstrates that the existing algorithms have not yet reached their maximum performance potential.
